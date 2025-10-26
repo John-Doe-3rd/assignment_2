@@ -1,0 +1,7 @@
+html entities are characters that are reserved in html mostly symbols and unique characters like the following examples 
+
+< name is &it; and number &#60;
+> name is &gt; and number &#62;
+" name is &quot; and number &#34; etc etc
+
+they are important since they allow you to print letters that you would usually have a hard time printing in html
